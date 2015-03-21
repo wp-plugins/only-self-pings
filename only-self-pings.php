@@ -6,9 +6,9 @@ Description: Keep your privacy AND automatic pingbacks
 Version: 1.0
 Author: Ulf Benjaminsson
 Author URI: http://www.ulfben.com
-Author Email: ulf@ulfben.com
+Author Email: ulfben@gmail.com
 License:
-  Copyright 2012 (ulf@ulfben.com)
+  Copyright 2015 (ulf@ulfben.com)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as 
